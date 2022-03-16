@@ -1,7 +1,7 @@
 # hello world
 my first repository on GitHub
 I’m currently learning software engineering
-I love :coffee: :pizza: and :spritual song:
+I love :coffee: :pizza: and :song:
 
 
 <!---
